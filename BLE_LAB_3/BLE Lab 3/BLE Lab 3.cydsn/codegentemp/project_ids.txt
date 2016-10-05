@@ -1,0 +1,5 @@
+C:\Users\Gloria.Gloria-PC\Desktop\Embedded Systems\Lab 3\BLE Lab 3\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cyprj|4fa4c8f9-4ded-4ee2-854d-4c5805880296
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|26ec23d0-ce3a-48a7-ad34-eea5be7b02c3
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|68255750-0e0a-4ad3-8cad-85b718d2d8ad
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|599c7297-2008-4d1c-8dcb-94bdaccad2f4
+C:\Program Files (x86)\Cypress\PSoC Creator\3.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|148ed258-f039-45a5-b7fc-f3d95aa01a26
