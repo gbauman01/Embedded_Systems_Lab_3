@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE Lab 3">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="BLE Lab 3\BLE Lab 3\Source Files\main.c">
 <ExpandedNodeIds>
 <v>BLE Lab 3</v>
 <v>BLE Lab 3\BLE Lab 3</v>
@@ -304,6 +304,7 @@
 <OpenDocs>
 <name v=".\BLE Lab 3.cydsn\BLE Lab 3.cydsn\TopDesign\TopDesign.cysch" />
 <name v=".\BLE Lab 3.cydsn\BLE Lab 3.cydsn\BLE Lab 3.cydwr" />
+<name v=".\BLE Lab 3.cydsn\BLE Lab 3.cydsn\main.c" />
 </OpenDocs>
 <config v="" />
 <AutoUpdate v="true" />

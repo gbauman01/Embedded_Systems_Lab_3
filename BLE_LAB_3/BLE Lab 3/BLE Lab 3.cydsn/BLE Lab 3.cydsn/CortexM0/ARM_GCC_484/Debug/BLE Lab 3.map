@@ -7687,7 +7687,7 @@ i.CyBle_BleSSInterruptHandler
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x775d
+.debug_info     0x00000000     0x7776
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x189 .\CortexM0\ARM_GCC_484\Debug\main.o
  .debug_info    0x00000189      0x30d .\CortexM0\ARM_GCC_484\Debug\HeartRateProcessing.o
@@ -7709,13 +7709,13 @@ i.CyBle_BleSSInterruptHandler
  .debug_info    0x00005717      0x474 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC.o)
  .debug_info    0x00005b8b      0x124 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_PM.o)
  .debug_info    0x00005caf       0xc4 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_INT.o)
- .debug_info    0x00005d73       0xad .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyBootAsmGnu.o)
- .debug_info    0x00005e20      0xe2b .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyLib.o)
- .debug_info    0x00006c4b      0x1fd .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyPm.o)
- .debug_info    0x00006e48      0x3a8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_PVT.o)
- .debug_info    0x000071f0      0x244 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_bless_isr.o)
- .debug_info    0x00007434      0x290 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyFlash.o)
- .debug_info    0x000076c4       0x99 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_INT.o)
+ .debug_info    0x00005d73       0xc6 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyBootAsmGnu.o)
+ .debug_info    0x00005e39      0xe2b .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyLib.o)
+ .debug_info    0x00006c64      0x1fd .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyPm.o)
+ .debug_info    0x00006e61      0x3a8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_PVT.o)
+ .debug_info    0x00007209      0x244 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_bless_isr.o)
+ .debug_info    0x0000744d      0x290 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyFlash.o)
+ .debug_info    0x000076dd       0x99 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_INT.o)
 
 .debug_abbrev   0x00000000     0x1d78
  *(.debug_abbrev)
@@ -8952,60 +8952,60 @@ i.CyBle_BleSSInterruptHandler
  .debug_frame   0x00015368       0x28 c:/program files (x86)/cypress/psoc creator/3.1/psoc creator/import/gnu_cs/arm/4.8.4/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libg_s.a(lib_a-memcpy-stub.o)
  .debug_frame   0x00015390       0x20 c:/program files (x86)/cypress/psoc creator/3.1/psoc creator/import/gnu_cs/arm/4.8.4/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m\libg_s.a(lib_a-memset.o)
 
-.debug_str      0x00000000     0x5b14
+.debug_str      0x00000000     0x5b2d
  *(.debug_str)
- .debug_str     0x00000000      0x30b .\CortexM0\ARM_GCC_484\Debug\main.o
-                                0x344 (size before relaxing)
- .debug_str     0x0000030b      0x814 .\CortexM0\ARM_GCC_484\Debug\HeartRateProcessing.o
-                                0x9a5 (size before relaxing)
- .debug_str     0x00000b1f     0x1bfa .\CortexM0\ARM_GCC_484\Debug\BleProcessing.o
-                               0x2539 (size before relaxing)
- .debug_str     0x00002719       0x65 .\CortexM0\ARM_GCC_484\Debug\WatchdogTimer.o
-                                0x97b (size before relaxing)
- .debug_str     0x0000277e       0x5b .\CortexM0\ARM_GCC_484\Debug\cymetadata.o
-                                0x1d9 (size before relaxing)
- .debug_str     0x000027d9      0x12e .\CortexM0\ARM_GCC_484\Debug\Cm0Start.o
-                                0x2c7 (size before relaxing)
- .debug_str     0x00002907      0x1b9 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyfitter_cfg.o)
-                                0x388 (size before relaxing)
- .debug_str     0x00002ac0       0xa8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(SW2_Switch.o)
-                                0x230 (size before relaxing)
- .debug_str     0x00002b68      0x155 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Wakeup_ISR.o)
-                                0x302 (size before relaxing)
- .debug_str     0x00002cbd       0xd2 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Led_Advertising_Green.o)
-                                0x272 (size before relaxing)
- .debug_str     0x00002d8f       0xc0 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Led_Connected_Blue.o)
-                                0x260 (size before relaxing)
- .debug_str     0x00002e4f      0xbbe .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_hrs.o)
-                               0x2fb1 (size before relaxing)
- .debug_str     0x00003a0d      0x41e .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1.o)
-                               0x12be (size before relaxing)
- .debug_str     0x00003e2b       0xd8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_gatt.o)
-                               0x2e59 (size before relaxing)
- .debug_str     0x00003f03      0xa7b .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_eventHandler.o)
-                               0x1a5e (size before relaxing)
- .debug_str     0x0000497e       0xc2 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_dis.o)
-                               0x1295 (size before relaxing)
- .debug_str     0x00004a40       0x9f .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Opamp.o)
-                                0x221 (size before relaxing)
- .debug_str     0x00004adf      0x1d8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC.o)
-                                0x392 (size before relaxing)
- .debug_str     0x00004cb7       0x81 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_PM.o)
-                                0x20c (size before relaxing)
- .debug_str     0x00004d38       0x37 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_INT.o)
-                                0x1bc (size before relaxing)
- .debug_str     0x00004d6f      0x83d .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyLib.o)
-                                0xa26 (size before relaxing)
- .debug_str     0x000055ac       0xc8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyPm.o)
-                                0x270 (size before relaxing)
- .debug_str     0x00005674      0x1c3 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_PVT.o)
-                                0x373 (size before relaxing)
- .debug_str     0x00005837      0x174 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_bless_isr.o)
-                                0x348 (size before relaxing)
- .debug_str     0x000059ab      0x12a .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyFlash.o)
-                                0x2d9 (size before relaxing)
- .debug_str     0x00005ad5       0x3f .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_INT.o)
-                                0x1b7 (size before relaxing)
+ .debug_str     0x00000000      0x324 .\CortexM0\ARM_GCC_484\Debug\main.o
+                                0x35d (size before relaxing)
+ .debug_str     0x00000324      0x814 .\CortexM0\ARM_GCC_484\Debug\HeartRateProcessing.o
+                                0x9be (size before relaxing)
+ .debug_str     0x00000b38     0x1bfa .\CortexM0\ARM_GCC_484\Debug\BleProcessing.o
+                               0x2552 (size before relaxing)
+ .debug_str     0x00002732       0x65 .\CortexM0\ARM_GCC_484\Debug\WatchdogTimer.o
+                                0x994 (size before relaxing)
+ .debug_str     0x00002797       0x5b .\CortexM0\ARM_GCC_484\Debug\cymetadata.o
+                                0x1f2 (size before relaxing)
+ .debug_str     0x000027f2      0x12e .\CortexM0\ARM_GCC_484\Debug\Cm0Start.o
+                                0x2e0 (size before relaxing)
+ .debug_str     0x00002920      0x1b9 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyfitter_cfg.o)
+                                0x3a1 (size before relaxing)
+ .debug_str     0x00002ad9       0xa8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(SW2_Switch.o)
+                                0x249 (size before relaxing)
+ .debug_str     0x00002b81      0x155 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Wakeup_ISR.o)
+                                0x31b (size before relaxing)
+ .debug_str     0x00002cd6       0xd2 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Led_Advertising_Green.o)
+                                0x28b (size before relaxing)
+ .debug_str     0x00002da8       0xc0 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Led_Connected_Blue.o)
+                                0x279 (size before relaxing)
+ .debug_str     0x00002e68      0xbbe .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_hrs.o)
+                               0x2fca (size before relaxing)
+ .debug_str     0x00003a26      0x41e .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1.o)
+                               0x12d7 (size before relaxing)
+ .debug_str     0x00003e44       0xd8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_gatt.o)
+                               0x2e72 (size before relaxing)
+ .debug_str     0x00003f1c      0xa7b .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_eventHandler.o)
+                               0x1a77 (size before relaxing)
+ .debug_str     0x00004997       0xc2 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_dis.o)
+                               0x12ae (size before relaxing)
+ .debug_str     0x00004a59       0x9f .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(Opamp.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x00004af8      0x1d8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC.o)
+                                0x3ab (size before relaxing)
+ .debug_str     0x00004cd0       0x81 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_PM.o)
+                                0x225 (size before relaxing)
+ .debug_str     0x00004d51       0x37 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(ADC_INT.o)
+                                0x1d5 (size before relaxing)
+ .debug_str     0x00004d88      0x83d .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyLib.o)
+                                0xa3f (size before relaxing)
+ .debug_str     0x000055c5       0xc8 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(cyPm.o)
+                                0x289 (size before relaxing)
+ .debug_str     0x0000568d      0x1c3 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_PVT.o)
+                                0x38c (size before relaxing)
+ .debug_str     0x00005850      0x174 .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_bless_isr.o)
+                                0x361 (size before relaxing)
+ .debug_str     0x000059c4      0x12a .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(CyFlash.o)
+                                0x2f2 (size before relaxing)
+ .debug_str     0x00005aee       0x3f .\CortexM0\ARM_GCC_484\Debug\BLE Lab 3.a(BLE_1_HAL_INT.o)
+                                0x1d0 (size before relaxing)
 
 .debug_loc
  *(.debug_loc)
