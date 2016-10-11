@@ -1,0 +1,8 @@
+--------------- Build Started: 10/10/2016 15:05:30 Project: BLE Lab 3, Configuration: ARM GCC 4.8.4 Debug ---------------
+cydsfit.exe -.appdatapath "C:\Users\Kervins\AppData\Local\Cypress Semiconductor\PSoC Creator\3.1" -.fdsnotice -.fdswarpdepfile=warp_dependencies.txt -.fdselabdepfile=elab_dependencies.txt -.fdsbldfile=generated_files.txt -p "C:\Users\Kervins\Downloads\BLE Lab 3\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cydsn\BLE Lab 3.cyprj" -d CY8C4247LQI-BL483 -s "C:\Users\Kervins\Downloads\BLE Lab 3\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cydsn\Generated_Source\PSoC4" -- -yv2 -q10 -ygs -o2 -v3 -.fftcfgtype=LE
+Elaborating Design...
+ADD: sdb.M0017: error: No drivers on signal "Net_1332", bit(s) "0".
+ * C:\Users\Kervins\Downloads\BLE Lab 3\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cydsn\TopDesign\TopDesign.cysch (Signal: Net_1332)
+ * C:\Users\Kervins\Downloads\BLE Lab 3\BLE Lab 3\BLE Lab 3.cydsn\BLE Lab 3.cydsn\TopDesign\TopDesign.cysch (Shape_122)
+Error: cdf.M0005: CyDsFit aborted due to errors, please address all errors and rerun CyDsFit. (App=cydsfit)
+--------------- Build Failed: 10/10/2016 15:05:59 ---------------
